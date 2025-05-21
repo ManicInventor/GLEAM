@@ -1,0 +1,14 @@
+This repository contains the pretrained models, 2 synthetic PET-EEG datasets, and demo of GLEAM.
+
+GLEAM is a biologically grounded deep learning system for seizure prediction,
+integrating neuroinflammatory biomarkers with EEG dynamics. It introduces:
+a PET-informed glial-neuronal manifold via supervised contrastive learning,
+retaining 94.3% of pathological features; a PET-regularized LSTM-GRU model
+achieving 92.1% AUC; and an interpretability suite attributing seizure risk to
+astrocytic (δ = 0.12 ± 0.03) and microglial (δ = 0.09 ± 0.02) states, reducing
+false positives by 67% (p = 0.008). GLEAM anticipates seizures ≥20 minutes
+ahead in 82% of cases (F1 = 0.89) with 5 ms latency, enabled by a spectral
+attention filter (SNR ↑63%) and a contrastive glial-neuronal boundary robust
+to perturbations. As an open-source, closed-loop prototype, GLEAM redefines
+seizure prediction as a biologically interpretable, real-time, and clinically viable
+task.
