@@ -9,7 +9,7 @@
     "id": "AAFcG2Gq0AlG"
    },
    "source": [
-    "# LSTM for Bonn University Epilepsy Dataset\n",
+    "# LSTM for TVB Amp Activation of TGF-β Signaling by Albumin Recording\n",
     "\n",
     "A | B | C | D | E\n",
     "--- | --- | --- | --- | ---\n",
@@ -38,9 +38,7 @@
      "status": "ok",
      "timestamp": 1531563831837,
      "user": {
-      "displayName": "Yannick Roy",
-      "photoUrl": "//lh3.googleusercontent.com/-YMx4BeKwWPo/AAAAAAAAAAI/AAAAAAAAQXg/feyISaEOp64/s50-c-k-no/photo.jpg",
-      "userId": "103169400758362496155"
+      "displayName": Redacted"
      },
      "user_tz": 240
     },
@@ -208,7 +206,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Visualize your data!"
+    "# Visualization"
    ]
   },
   {
@@ -265,9 +263,6 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
-    "# Prepare your data!"
-   ]
   },
   {
    "cell_type": "code",
